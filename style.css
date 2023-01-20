@@ -1,0 +1,38 @@
+.twoTables{
+    border: 1px solid black;
+    width : 232px;
+    border-radius: 3px;
+    
+}
+.firstTable{
+    border: 1px solid;
+    border-radius: 3px;
+    width : 226px;
+    margin: 2px;
+}
+.secondTable{
+    width : 234px;
+}
+.thirdTable{
+    width : 232px;
+}
+
+
+
+td, input{
+    min-width: 50px;
+    min-height: 50px;
+    font-weight: bold;
+    font-size : 20px;
+}
+.result{
+    height: 50px;
+    border: 0px;
+    font-size : 30px;
+}
+td input.equal{
+    height : 212px;
+    width: 50px;
+    
+}
+
